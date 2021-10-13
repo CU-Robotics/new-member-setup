@@ -12,7 +12,7 @@ Welcome to CU Robotics! In order to make setting up your workspace quick and eas
 
 Welcome to the controls team! This guide will show you how to set up a Virtual Machine running Ubuntu, set up the BuffCode repo on your system, and install some development tools.
 
-### Step 1:  Set up your Virtual Machine
+### Step 1: Set up your Virtual Machine
 
 
 ### Step 2: Clone BuffCode
@@ -29,7 +29,7 @@ Congratulations, you're finished!
 
 Welcome to the vision team! This guide will show you how to set up Python3 and pip on your system, and clone our vision repository. **NOTE: This guide only works if you have already done [Controls Team Setup](#controls-team-setup).**
 
-### Step 1:  Python3/pip setup
+### Step 1:  Python3/pip Setup
 
 
 ### Step 2: Clone BuffVision
@@ -43,7 +43,7 @@ Congratulations, you're finished!
 
 Welcome to the hardware team! This guide will show you how to get a SOLIDWORKS access code, download SOLIDWORKS, and join our SOLIDWORKS 3DExperience team (which is basically Google Drive for CAD).
 
-### Step 1:  SOLIDWORKS access code
+### Step 1:  SOLIDWORKS Access Code
 
 
 ### Step 2: Download SOLIDWORKS
